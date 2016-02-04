@@ -2,8 +2,6 @@
 
 //name="url"
 //comment-form-url
-//по curl опредеяем есть ли строка на странице, выводим отчет
-// сохраняем в память базовый домен
 
 include 'simple_html_dom.php';
 
